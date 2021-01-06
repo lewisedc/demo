@@ -1,6 +1,7 @@
 {
   "clients": [
     {
+      "id": 1,
       "image": "/images/Avatar2.png",
       "firstName": "Lewis",
       "lastName": "Drayton-Corbin",
@@ -10,6 +11,7 @@
       "dateJoined": "2021/01/04"
     },
     {
+      "id": 2,
       "image": "/images/Avatar2.png",
       "firstName": "Rose",
       "lastName": "June Taylor",
@@ -19,6 +21,7 @@
       "dateJoined": "2021/01/02"
     },
     {
+      "id": 3,
       "image": "/images/Avatar2.png",
       "firstName": "Rose",
       "lastName": "June Taylor",
@@ -28,6 +31,7 @@
       "dateJoined": "2021/01/03"
     },
     {
+      "id": 4,
       "image": "/images/Avatar2.png",
       "firstName": "Atticus",
       "lastName": "Pirrie",
