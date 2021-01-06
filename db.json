@@ -7,7 +7,7 @@
       "gender": "Male",
       "startWeight": 12,
       "currentWeight": 104,
-      "dateJoined": new Date("2021/01/04"),
+      "dateJoined": "2021/01/04",
     },
     {
       "image": "/images/Avatar2.png",
@@ -16,7 +16,7 @@
       "gender": "Female",
       "startWeight": 12,
       "currentWeight": 104,
-      "dateJoined": new Date("2021/01/02"),
+      "dateJoined": "2021/01/02",
     },
     {
       "image": "/images/Avatar2.png",
@@ -25,7 +25,7 @@
       "gender": "Female",
       "startWeight": 12,
       "currentWeight": 104,
-      "dateJoined": new Date("2021/01/03"),
+      "dateJoined": "2021/01/03",
     },
     {
       "image": "/images/Avatar2.png",
@@ -34,7 +34,7 @@
       "gender": "Male",
       "startWeight": 84,
       "currentWeight": 92,
-      "dateJoined": new Date("2020/06/19"),
+      "dateJoined": "2020/06/19",
     },
   ],
 }
