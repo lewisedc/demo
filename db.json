@@ -41,42 +41,48 @@
       "dateJoined": "2020/06/19"
     }
   ],
-  "Plans": {
-    "workout": [
-      {
-        "name": "Plan 1",
-        "icon": ""
-      },
-      {
-        "name": "Generic Plan",
-        "icon": ""
-      },
-      {
-        "name": "Home Friendly",
-        "icon": ""
-      },
-      {
-        "name": "Intense",
-        "icon": ""
-      }
-    ],
-    "meal": [
-      {
-        "name": "Plan 1",
-        "icon": ""
-      },
-      {
-        "name": "Generic Plan",
-        "icon": ""
-      },
-      {
-        "name": "Fatty Friendly",
-        "icon": ""
-      },
-      {
-        "name": "Big Deficit",
-        "icon": ""
-      }
-    ]
-  }
+  "workoutPlans": [
+    {
+      "id": 1,
+      "name": "Plan 1",
+      "icon": ""
+    },
+    {
+      "id": 2,
+      "name": "Generic Plan",
+      "icon": ""
+    },
+    {
+      "id": 3,
+      "name": "Home Friendly",
+      "icon": ""
+    },
+    {
+      "id": 4,
+      "name": "Intense",
+      "icon": ""
+    }
+  ],
+  "mealPlans": [
+    {
+      "id": 1,
+      "name": "Plan 1",
+      "icon": ""
+    },
+    {
+      "id": 2,
+      "name": "Generic Plan",
+      "icon": ""
+    },
+    {
+      "id": 3,
+      "name": "Fatty Friendly",
+      "icon": ""
+    },
+    {
+      "id": 4,
+      "name": "Big Deficit",
+      "icon": ""
+    }
+  ]
 }
